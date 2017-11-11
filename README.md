@@ -49,4 +49,4 @@ plot.py will take a space-delimited table like this:
 ```
 and turn it into a plot like this:
 ![Example Plot]
-(https://github.com/trevortomesh/plot.py/blob/master/plot.png)
+(https://raw.githubusercontent.com/trevortomesh/plot.py/master/plot.png)
