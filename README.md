@@ -48,5 +48,4 @@ plot.py will take a space-delimited table like this:
 110 106      
 ```
 and turn it into a plot like this:
-![Example Plot]
-(https://raw.githubusercontent.com/trevortomesh/plot.py/master/plot.png)
+![Example Plot](https://raw.githubusercontent.com/trevortomesh/plot.py/master/plot.png)
