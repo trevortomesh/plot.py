@@ -36,14 +36,15 @@ pip3 install numpy
 Just download it and unzip the folder. Ta-da!
 
 ### Usage
-plot.py will take a tab-delimited table like this:
+plot.py will take a space-delimited table like this:
 
-| ColA          | ColB          |
-| ------------- | --------------|
-| 93            | 46            |
-| 94            | 56            |
-| 95            | 66            |
-| 97            | 76            |
-| 100           | 86            |
-| 103           | 96            |
-| 110           | 106           |
+```
+93 46            
+94 56            
+95 66            
+97 76            
+100 86     
+103 96     
+110 106      
+```
+and turn it into a plot like this:
