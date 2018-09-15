@@ -4,7 +4,7 @@
 
 *"Completely Unnecessary!™"*
 ------------
-This is a little plotting program written in python that probably doesn't even deserve its own repository. It's ridiculously simple and was written up in a couple of minutes using the pyplot library in python. It's here mostly so I don't lose it -- again.
+This is a collection of little plotting program written in python that probably doesn't even deserve its own repository. It's ridiculously simple and was written up in a couple of minutes using the pyplot library in python. It's here mostly so I don't lose it -- again.
 
 ### Dependencies
 ------------
@@ -53,3 +53,7 @@ plot.py will take a space-delimited table like this:
 and turn it into a plot like this:
 
 ![Example Plot](https://raw.githubusercontent.com/trevortomesh/plot.py/master/plot.png)
+
+
+plotfunc.py can be edited internally to plot a 2D function -- just change the line under 
+"Type your function here" 

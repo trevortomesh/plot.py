@@ -18,6 +18,8 @@ pxaxis = "x axis"
 pyaxis = "y axis"
 
 x = arange(pStart, pEnd, pStep)
+
+# Type your function here: 
 y = sin(x)+sin(x/3)+sin(x/5)
 
 plot.plot(x, y)
