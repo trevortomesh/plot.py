@@ -1,4 +1,7 @@
 # plot.py
+
+![](plotpy.png)
+
 *"Completely Unnecessary!™"*
 ------------
 This is a little plotting program written in python that probably doesn't even deserve its own repository. It's ridiculously simple and was written up in a couple of minutes using the pyplot library in python. It's here mostly so I don't lose it -- again.
