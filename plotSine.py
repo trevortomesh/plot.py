@@ -1,12 +1,12 @@
-import numpy as np
+from numpy import *
 import matplotlib.pyplot as plot
 
 # Get x values of the sine wave
 
-x = np.arange(0, 100, 0.1)
+x = arange(0, 100, 0.1)
 
 # Amplitude of the sine wave is sine of a variable like time
-y = np.sin(x)+np.sin(x/3)+np.sin(x/6)
+y = sin(x)+sin(x/3)+sin(x/5)
 
 # Plot a sine wave using time and amplitude obtained for the sine wave
 plot.plot(x, y)
